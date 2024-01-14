@@ -1,0 +1,35 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+g
+7flyway/arquivos/Configuração inicial - Spring Boot.md,7\a\7a880cbf05927eeb7cdb046c10855c660053daad
+u
+Eflyway/src/main/resources/db/migration/db/migration/V1.0__criarDB.sql,7\e\7e8b40d52e37d994320aaa467fb9779bb5f0ac23
+`
+0flyway/src/main/resources/application.properties,3\4\34efe170c8b5545a0fd53aec4d67038faa6de8d9
+b
+2flyway/src/main/java/com/migration/flyway/App.java,b\f\bf6e82adbe98866923f1f446a51ca85174c2d853
+e
+5flyway/src/main/java/com/migration/flyway/Pessoa.java,1\5\15cbb95cc8314888761530b4006e15dc4d0e714c
+h
+8flyway/src/main/java/com/migration/FlwayApplication.java,0\4\04fc306bea3813db919b6291e809ad215a928df0
+m
+=flyway/src/test/java/com/migration/FlwayApplicationTests.java,d\c\dc96b238e93a7e189e634dca1c5d6810bf9015f4
+>
+flyway/gradlew,c\4\c4f9e4cfb427cb8da25d2370c2ebac1751877818
+_
+/flyway/gradle/wrapper/gradle-wrapper.properties,e\0\e0a056a567cbc669c7302447de6c8ff55055cc7b
+G
+flyway/build.gradle.kts,6\1\616b696282f42aace5a5dee59f9c0c8e9499d8e7
+B
+flyway/gradlew.bat,4\d\4dd6d48c6b34207ff3840f8b7488f8ff612dfbe7
+J
+flyway/settings.gradle.kts,0\9\097685b7755071fc9b264845a84bfec3faa4d928
+C
+flyway/build.gradle,9\9\995952e5fc6c25f971091c188f715df676ee6aef
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+A
+flyway/.gitignore,5\b\5bb5fb63fa77012ce13b9c75fef8a89cfa350bd1
